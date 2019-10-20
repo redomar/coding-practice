@@ -1,3 +1,21 @@
 body {
   background-color: #befdff;
 }
+
+nav {
+  background-color: aqua;
+  color: white;
+  text-decoration: none;
+}
+
+nav li {
+  list-style: none;
+}
+
+nav a {
+  padding: 0pt 2em;
+}
+
+#gameCanvas {
+  margin-left: 100px;
+}
